@@ -33,8 +33,8 @@ Use alphabetical order for long lists, such as course descriptions or a director
 Sometimes called ìfrequently asked questionsî or "FAQs", this organization method is common for troubleshooting sections, or content regarding a complex process. For
 example:
 
-|**How do I register for a class?**|
-Register for a class by filling out the application in the brochure mailed to you, or you can register online.
+|**How do I register for a class?**
+Register for a class by filling out the application in the brochure mailed to you, or you can register online.|
 |----------------------------------|
 
 The question is asked from the readerís point of view, and then answered in the text below the question. The blue, underlined text is a link to a hypothetical online registration form (we'll discuss the proper usage of links later).
