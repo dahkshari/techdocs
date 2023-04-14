@@ -37,4 +37,15 @@ example:
 > 
 > Register for a class by filling out the application in the brochure mailed to you, or you can [register online](/uri "link").
 
-The question is asked from the readerís point of view, and then answered in the text below the question. The blue, underlined text is a link to a hypothetical online registration form (we'll discuss the proper usage of links later).
+The question is asked from the reader's point of view, and then answered in the text below the question. The blue, underlined text is a link to a hypothetical online registration form (we'll discuss the proper usage of links later).
+
+#### Pyramid
+The pyramid style is commonly used in newspapers. It places the most important content at the top of the article, with the least important at the bottom. This format can be used on home pages, press releases, journal articles, memos, and About pages.
+
+#### List
+The guide you're reading now is an example of the list style. It describes in list format the "ten steps toward effective web writing". Readers like the list style because it's an intuitive way to inform them of exactly what they're going to read. 
+
+#### Deductive order 
+The content starts with a general statement, and then is followed by evidence to support that statement. Many scientific and argumentative articles are organized this way.
+
+
