@@ -12,4 +12,3 @@ Another thing readers scan for are bulleted or numbered lists. Lists enable read
 
 |**Old**<br />There are plenty of activities for students available outside the classroom, such as student organizations, athletics, fine arts, charitable work, and the student newspaper.|**New**<br />Student activities outside the classroom include: Student organizations<br />Athletics<br />Fine arts<br />Charitable work<br />Student newspaper|
 |:-|:-|
-|---|---|
