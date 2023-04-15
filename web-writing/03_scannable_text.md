@@ -10,9 +10,10 @@ It's okay to be clever with your headings, but don't make them too cute. Headlin
 ## Use bulleted/numbered lists
 Another thing readers scan for are bulleted or numbered lists. Lists enable readers to skim through a series to find the one point they're looking for.
 
+--------------------------------------------------------------------------------------------
 > **Old**<br />
 > There are plenty of activities for students available outside the classroom, such as student organizations, athletics, fine arts, charitable work, and the student newspaper.
- 
+--------------------------------------------------------------------------------------------
 > **New**<br />
 > Student activities outside the classroom include:
 > - Student organizations
@@ -20,6 +21,7 @@ Another thing readers scan for are bulleted or numbered lists. Lists enable read
 > - Fine arts
 > - Charitable work
 > - Student newspaper
+--------------------------------------------------------------------------------------------
 
 ## Highlight key words/phrases
 Highlight key words or phrases either by using bold text or by giving them a different color (remember to use the same color consistently throughout your site). But don't overdo highlighting. Lots of bolded/colored text makes it hard for your reader's eyes to focus on the rest of the content. One or two words per paragraph are enough. 
