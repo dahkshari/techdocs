@@ -10,17 +10,14 @@ It's okay to be clever with your headings, but don't make them too cute. Headlin
 ## Use bulleted/numbered lists
 Another thing readers scan for are bulleted or numbered lists. Lists enable readers to skim through a series to find the one point they're looking for.
 
-```
-**Old**
-There are plenty of activities for students available outside the classroom, such as student organizations, athletics, fine arts, charitable work, and the student newspaper.
-```
+> **Old**
+> There are plenty of activities for students available outside the classroom, such as student organizations, athletics, fine arts, charitable work, and the student newspaper.
 
-```
-**New**
-Student activities outside the classroom include:
-- Student organizations
-- Athletics
-- Fine arts
-- Charitable work
-- Student newspaper
-```
+> **New**
+> Student activities outside the classroom include:
+> - Student organizations
+> - Athletics
+> - Fine arts
+> - Charitable work
+> - Student newspaper
+
