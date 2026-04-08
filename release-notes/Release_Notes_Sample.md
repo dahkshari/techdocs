@@ -10,7 +10,7 @@ The Company development team is pleased to announce the availability of Core Pro
 | :---- | :---- | :---- |
 | Alpha | US East | mm dd, yyyy |
 | Beta | US East | mm dd, yyyy |
-| Production | US East | mm dd, yyyy |
+| Production (GA) | US East | mm dd, yyyy |
 
 ## **What’s new in Core Product 1.5?**
 
