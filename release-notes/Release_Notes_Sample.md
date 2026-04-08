@@ -10,11 +10,12 @@ The Company development team is pleased to announce the availability of Core Pro
 | :---- | :---- | :---- |
 | Alpha | US East | mm dd, yyyy |
 | Beta | US East | mm dd, yyyy |
-| General Availability (GA) | US East | mm dd, yyyy |
+| Production | US East | mm dd, yyyy |
 
 ## **What’s new in Core Product 1.5?**
 
-*\[Feature descriptions state the update and its benefits.\]*  
+*\[Feature descriptions state the update and its benefits.\]*
+
 This release includes the following new product features:
 
 ### First Feature Title
@@ -27,7 +28,8 @@ Second Feature Title enables users to edit jobs while they are running. This red
 
 ## **Defects Fixed**
 
-*\[Defect descriptions state the bug and the fix.\]*  
+*\[Defect descriptions state the bug and the fix.\]*
+ 
 This release fixes or addresses the following defects:
 
 ### First Defect
@@ -49,7 +51,8 @@ Job runs were timing out after one minute, which was not long enough to complete
 
 ## **If you need assistance**
 
-*\[Include guidance on where to go for help.\]*  
+*\[Include guidance on where to go for help.\]*
+
 Enter a support case in the Case Tracking System, where you can:
 
 * Report, track, and update problem requests.  
