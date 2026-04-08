@@ -1,2 +1,2 @@
-# techdocs
-This repository contains Markdown versions of technical documentation that I wrote. It is meant to serve as a portfolio of my work.
+# Rob Steiner's Technical Documentation
+This repository contains Markdown samples of my technical documentation.
