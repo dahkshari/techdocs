@@ -3,7 +3,7 @@ This repository contains Markdown samples of my technical documentation, and dem
 
 ## Contents
 
-- **Preparing Content for AI: A Guide for Technical Writers**: Demonstrates AI-ready content awareness.
+- **Preparing Content for AI**: Demonstrates AI-ready content awareness.
 - **API**: API endpoint documentation.
 - **Release Notes**: Release notes sample written for a semi-technical user audiance.
 - **Writing for the Web**: Ten tips for organizations to ensure their content reads well on the web.
