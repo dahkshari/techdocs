@@ -7,3 +7,5 @@ This is the third line.
 This is the fourth line.
 
 Turn on the toothbrush using the green button. Place in your mouth.
+
+This is the fourth line. This is to test the toothbrush comment.
