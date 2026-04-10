@@ -18,7 +18,6 @@ You can add new files to ILP File Manager that can be viewed outside the SHC fir
 | *IMPORTANT: You must place all files to be viewed outside the firewall in your group’s “(External)” workspace.  If you do NOT see your group’s “(External)” workspace, contact ILP Support (ilp\_support@searshc.com) for help.*  |
 | :---- |
 
-
 	![ilp02-image01](https://github.com/dahkshari/techdocs/blob/main/ilp-file-manager-user-guide/images/ilp02-image01.png)
 
 4. Click the folder to which you want to add a new file.  In this example, we will open the “**test**” folder.
