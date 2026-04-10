@@ -15,7 +15,7 @@ You can add files to ILP File Manager that will only be viewed by Segno users wh
 
 3. Select the Workspace that your business uses to store Segno files.
 
-   ![][image1]
+   ![ilp01-image01][images/ilp01-image01.png]
 
 4. Click the folder to which you want to add a new file.  
 
