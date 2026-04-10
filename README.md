@@ -1,5 +1,5 @@
 # Rob Steiner's Technical Documentation
-This repository contains Markdown samples of my technical documentation, and demonstrates my experience with Git, GitHub, and version control.
+This repository contains Markdown samples of some of my technical documentation, and demonstrates my experience with Git, GitHub, and version control. For a more complete portfolio, see https://robsteiner.net/pro/.
 
 ## Contents
 
