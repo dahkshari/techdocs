@@ -2,11 +2,9 @@
 
 You can add new files to ILP File Manager that can be viewed outside the SHC firewall. For example, if you want learners to view it from their home computers, or computers that are **not** connected to SHC via VPN.
 
-| :---- |
-| Best Practice: When naming files, do not use spaces or special characters. Use only “\_” or “-“ to separate words in a file name. For example, change “HA Dishwasher Learning Plan.pdf” to “HA\_Dishwasher\_Learning\_Plan.pdf”. |
+**Best Practice:** When naming files, do not use spaces or special characters. Use only “\_” or “-“ to separate words in a file name. For example, change “HA Dishwasher Learning Plan.pdf” to “HA\_Dishwasher\_Learning\_Plan.pdf”.
 
-
-***Note:**  The screen shots in this guide may look slightly different depending on the browser you use.*
+**Note:**  The screen shots in this guide may look slightly different depending on the browser you use.
 
 1. Open the ILP File Manager:
 
@@ -15,7 +13,7 @@ You can add new files to ILP File Manager that can be viewed outside the SHC fir
 2. Log in with your Enterprise ID and password.
 
 3. Search for your group’s **“(External)”** workspace and click it. For example, the “Home Services” group should click the **Home Services** ***(External)*** workspace.<br><br>
-***Important:** You must place all files to be viewed outside the firewall in your group’s “(External)” workspace.  If you do NOT see your group’s “(External)” workspace, contact ILP Support (ilp\_support@searshc.com) for help.*
+**Important:** You must place all files to be viewed outside the firewall in your group’s “(External)” workspace.  If you do NOT see your group’s “(External)” workspace, contact ILP Support (ilp\_support@searshc.com) for help.
   
 	![ilp02-image01](https://github.com/dahkshari/techdocs/blob/main/ilp-file-manager-user-guide/images/ilp02-image01.png)
 
