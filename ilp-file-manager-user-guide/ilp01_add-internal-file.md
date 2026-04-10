@@ -19,16 +19,16 @@ You can add files to ILP File Manager that will only be viewed by Segno users wh
 
 4. Click the folder to which you want to add a new file.  
 
-   ![][image2]
+   ![ilp01-image02](https://github.com/dahkshari/techdocs/blob/main/ilp-file-manager-user-guide/images/ilp01-image02.png)
 
 5. Click **Upload** in the upper-right corner.
 
-   ![][image3]
+   ![ilp01-image03](https://github.com/dahkshari/techdocs/blob/main/ilp-file-manager-user-guide/images/ilp01-image03.png)
 
 6. On the Upload pop-up, either (1) drag your files to the “Drop Files Here” space or (2) click **Select Files on your computer** and navigate to the files you want to upload.
 
-   ![][image4]
+   ![ilp01-image04](https://github.com/dahkshari/techdocs/blob/main/ilp-file-manager-user-guide/images/ilp01-image04.png)
 
 7. The file you selected (in this example, “Test\_20170208.pdf”) uploads to the file section in the middle.
 
-   ![][image5]
+   ![ilp01-image05](https://github.com/dahkshari/techdocs/blob/main/ilp-file-manager-user-guide/images/ilp01-image05.png)
