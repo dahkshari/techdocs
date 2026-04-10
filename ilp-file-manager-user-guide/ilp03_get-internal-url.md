@@ -30,7 +30,7 @@ You can add content to Segno that can only be viewed by **internal** learners (l
 
 **Tip:**  To copy the file name, click the file once, click **Rename** at the top, highlight the file name, and press **\<CTRL\>+C** to copy it. But be careful not to change the file name\!
 
-**Important:**  By using the base URL from step 6, your content will only display for users signed onto the SHC internal network.
+**IMPORTANT!**  By using the base URL from step 6, your content will only display for users signed onto the SHC internal network.
 
 8. After you finish typing the URL into your browser, test it by pressing **\<ENTER\>**.  If the URL is valid, the document will display in your browser. If not, ensure you typed the folder and file names correctly.
 

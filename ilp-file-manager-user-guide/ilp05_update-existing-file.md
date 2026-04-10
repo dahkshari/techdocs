@@ -4,7 +4,7 @@ You can update an existing file that is linked as a content piece on Segno.
 
 For example, if the text has changed within a PDF file that’s linked on Segno, you can overwrite the existing file in ILP File Manager with a new one of the **same exact file name**.  After doing that, the new text will appear when users open that content piece on Segno.
 
-**Important\!** Ensure your updated file has the exact same file name as the one you’re replacing, including the same letter case.  Otherwise you will break the link in Segno and users will not be able to open the updated content item. For example, do not replace “HA-Dishwasher.pdf” with an updated file called “HA-Dishwasher\_v2.pdf”.  Make sure you change “HA-Dishwasher v2.pdf” to the pre-existing file name “HA-Dishwasher.pdf” before uploading.
+**IMPORTANT!** Ensure your updated file has the exact same file name as the one you’re replacing, including the same letter case.  Otherwise you will break the link in Segno and users will not be able to open the updated content item. For example, do not replace “HA-Dishwasher.pdf” with an updated file called “HA-Dishwasher\_v2.pdf”.  Make sure you change “HA-Dishwasher v2.pdf” to the pre-existing file name “HA-Dishwasher.pdf” before uploading.
 
 **Note:**  The screen shots in this guide may look slightly different depending on the browser you use.
 

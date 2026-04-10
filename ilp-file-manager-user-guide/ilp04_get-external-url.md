@@ -30,7 +30,7 @@ You can add content to Segno that you want to be viewed by **external** learners
 
 **Tip:**  To copy the file name, click the file once, click **Rename** at the top, highlight the file name, and press **\<CTRL\>+C** to copy it. But be careful not to change the file name\!
 
-**Important:**  By using the base URL from step 6, your content will display for users inside and outside the SHC network.
+**IMPORTANT!**  By using the base URL from step 6, your content will display for users inside and outside the SHC network.
 
 8. After you finish typing the URL into your browser, test it by pressing **\<ENTER\>**.  If the URL is valid, the document will appear in your browser. If not, ensure you typed the folder and file names correctly.
 
