@@ -2,8 +2,9 @@
 
 You can add new files to ILP File Manager that can be viewed outside the SHC firewall. For example, if you want learners to view it from their home computers, or computers that are **not** connected to SHC via VPN.
 
-| Best Practice: When naming files, do not use spaces or special characters. Use only “\_” or “-“ to separate words in a file name. For example, change “HA Dishwasher Learning Plan.pdf” to “HA\_Dishwasher\_Learning\_Plan.pdf”. |
 | :---- |
+| Best Practice: When naming files, do not use spaces or special characters. Use only “\_” or “-“ to separate words in a file name. For example, change “HA Dishwasher Learning Plan.pdf” to “HA\_Dishwasher\_Learning\_Plan.pdf”. |
+
 
 ***Note:**  The screen shots in this guide may look slightly different depending on the browser you use.*
 
