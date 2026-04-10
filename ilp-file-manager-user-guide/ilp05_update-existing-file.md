@@ -30,5 +30,3 @@ For example, if the text has changed within a PDF file that’s linked on Segno,
 	![ilp05-image02](https://github.com/dahkshari/techdocs/blob/main/ilp-file-manager-user-guide/images/ilp05-image02.png)
 
 7. After uploading the file, go to Segno and test the content item that is linked to this file.  As long as you keep the file names ***exactly the same***, the updated file will display.
-
-	![ilp05-image03](https://github.com/dahkshari/techdocs/blob/main/ilp-file-manager-user-guide/images/ilp05-image03.png)
