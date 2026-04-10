@@ -28,7 +28,7 @@ You can add content to Segno that you want to be viewed by **external** learners
 
    **https://learningportal.searshc.com/Home Services/test/Test\_20170208.pdf**
 
-**Tip:**  To copy the file name, click the file once, click Rename at the top, highlight the file name, and press \<CTRL\>+C to copy it. But be careful not to change the file name\!
+**Tip:**  To copy the file name, click the file once, click **Rename** at the top, highlight the file name, and press **\<CTRL\>+C** to copy it. But be careful not to change the file name\!
 
 **Important:**  By using the base URL from step 6, your content will display for users inside and outside the SHC network.
 
