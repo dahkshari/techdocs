@@ -8,13 +8,15 @@ As **technical writers**, our role is continuously evolving. Today we write for 
 
 * [Make your content AI ready](#ready)
 
-<a id="why"></a>## Why should we make our content AI-ready?
+<a id="why"></a>
+## Why should we make our content AI-ready? 
 
 AI agents need to be trained on something; they need to get their content from somewhere. That content comes from writers. We’re not just writing for human readers anymore; we’re also structuring and curating content for AI agents.
 
 The good news is that what enables better human content consumption (clarity and logical structure) also works for AI. If it’s not there, AI might generate hallucinations, where the AI confidently presents incorrect information as true. Ensuring that our content is clearly written, organized, and well formatted will reduce hallucinations and make agents more responsive and accurate.
 
-<a id="concepts"></a>## Important AI Concepts 
+<a id="concepts"></a>
+## Important AI Concepts 
 
 Most generative AI agents rely on frameworks like Retrieval-Augmented Generation (RAG) and the concept of “human in the loop” (HITL) to function optimally. Technical writers are critical for both.
 
@@ -28,7 +30,8 @@ RAG agents are most effective when they’re pointed to highly organized, interc
 
 HITL emphasizes human involvement to ensure the accuracy and relevance of generative AI responses. Technical writers, with their understanding of human audiences, can guide AI, address biases and ambiguities, fact-check, and facilitate continuous improvement. 
 
-<a id="ready"></a>## Make Your Content AI-Ready 
+<a id="ready"></a>
+## Make Your Content AI-Ready 
 
 To optimize your content for AI agents, consider the following best practices.
 
