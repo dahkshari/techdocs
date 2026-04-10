@@ -18,20 +18,20 @@ You can add new files to ILP File Manager that can be viewed outside the SHC fir
 | *IMPORTANT: You must place all files to be viewed outside the firewall in your group’s “(External)” workspace.  If you do NOT see your group’s “(External)” workspace, contact ILP Support (ilp\_support@searshc.com) for help.*  |
 | :---- |
 
-   ![][image6]
+	![ilp02-image01](https://github.com/dahkshari/techdocs/blob/main/ilp-file-manager-user-guide/images/ilp02-image01.png)
 
 4. Click the folder to which you want to add a new file.  In this example, we will open the “**test**” folder.
 
-   ![][image7]
+   ![ilp02-image02](https://github.com/dahkshari/techdocs/blob/main/ilp-file-manager-user-guide/images/ilp02-image02.png)
 
 5. Click **Upload** in the upper right corner.
 
-   ![][image8]
+   ![ilp02-image03](https://github.com/dahkshari/techdocs/blob/main/ilp-file-manager-user-guide/images/ilp02-image03.png)
 
 6. On the Upload pop-up, either (1) drag your files to the “Drop Files Here” space or (2) click **Select Files on your computer** and navigate to the files you want to upload.
 
-   ![][image9]
+   ![ilp02-image04](https://github.com/dahkshari/techdocs/blob/main/ilp-file-manager-user-guide/images/ilp02-image04.png)
 
 7. The file you selected (in this example, “Test\_20170208.pdf”) uploads to the file section in the middle.
 
-   ![][image10]
+   ![ilp02-image05](https://github.com/dahkshari/techdocs/blob/main/ilp-file-manager-user-guide/images/ilp02-image05.png)
