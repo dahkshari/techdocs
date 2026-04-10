@@ -2,10 +2,9 @@
 
 You can add files to ILP File Manager that will only be viewed by Segno users who are signed onto the SHC **internal** network.
 
-| Best Practice: When naming files, do not use spaces or special characters. Use only “\_” or “-“ to separate words in a file name. For example, change “HA Dishwasher Learning Plan.pdf” to “HA\_Dishwasher\_Learning\_Plan.pdf”. |
-| :---- |
+**Best Practice:** When naming files, do not use spaces or special characters. Use only “\_” or “-“ to separate words in a file name. For example, change “HA Dishwasher Learning Plan.pdf” to “HA\_Dishwasher\_Learning\_Plan.pdf”.
 
-***Note:**  The screen shots in this guide may look slightly different depending on the browser you use.*
+**Note:**  The screen shots in this guide may look slightly different depending on the browser you use.
 
 1. Open the ILP File Manager:
 
