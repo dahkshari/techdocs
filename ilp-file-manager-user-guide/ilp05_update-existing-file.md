@@ -1,4 +1,4 @@
-# **Update an existing file on ILP File Manager** {#update-an-existing-file-on-ilp-file-manager}
+# **Update an existing file on ILP File Manager** 
 
 You can update an existing file that is linked as a content piece on Segno.  
 

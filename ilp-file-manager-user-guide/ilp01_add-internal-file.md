@@ -1,4 +1,4 @@
-# **Add a new *internal* file to ILP File Manager** {#add-a-new-internal-file-to-ilp-file-manager}
+# **Add a new *internal* file to ILP File Manager**
 
 You can add files to ILP File Manager that will only be viewed by Segno users who are signed onto the SHC **internal** network.
 

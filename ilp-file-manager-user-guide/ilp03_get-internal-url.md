@@ -1,4 +1,4 @@
-# **Get a URL for *internal* Segno content** {#get-a-url-for-internal-segno-content}
+# **Get a URL for *internal* Segno content** 
 
 You can add content to Segno that can only be viewed by **internal** learners (learners who are signed on to the SHC network). 
 

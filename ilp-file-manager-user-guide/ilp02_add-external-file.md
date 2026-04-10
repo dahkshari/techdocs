@@ -1,4 +1,4 @@
-# **Add a new external file to ILP File Manager** {#add-a-new-external-file-to-ilp-file-manager}
+# **Add a new external file to ILP File Manager** 
 
 You can add new files to ILP File Manager that can be viewed outside the SHC firewall. For example, if you want learners to view it from their home computers, or computers that are **not** connected to SHC via VPN.
 

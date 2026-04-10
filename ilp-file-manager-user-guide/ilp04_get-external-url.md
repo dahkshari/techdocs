@@ -1,4 +1,4 @@
-# **Get a URL for *external* Segno content** {#get-a-url-for-external-segno-content}
+# **Get a URL for *external* Segno content** 
 
 You can add content to Segno that you want to be viewed by **external** learners (learners who are not signed on to the SHC network). 
 

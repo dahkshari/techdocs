@@ -1,6 +1,6 @@
 # Upload Files for Segno Deployment
 
-ILP File Manager is the web server where we store content files that will later be added to Segno Expertise.  This is only for static files such as PDFs, images, spreadsheets, documents, etc.  **Do not use this for eLearning or videos.**
+ILP File Manager is the web server where we store content files that will later be added to the Segno Expertise learning management system.  This is only for static files such as PDFs, images, spreadsheets, documents, etc.  **Do not use this for eLearning or videos.**
 
 * [Add a new *internal* file to ILP File Manager](ilp01_add-internal-file.md)  
 * [Add a new *external* file to ILP File Manager](ilp02_add-external-file.md)  
