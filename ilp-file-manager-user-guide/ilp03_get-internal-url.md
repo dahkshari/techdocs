@@ -28,7 +28,7 @@ You can add content to Segno that can only be viewed by **internal** learners (l
 
    **https://learningportal.intra.searshc.com/docs/Kmart/Kmart Academy/129841\_EN.pdf**
 
-**Tip:**  To copy the file name, click the file once, click Rename at the top, highlight the file name, and press \<CTRL\>+C to copy it. But be careful not to change the file name\!
+**Tip:**  To copy the file name, click the file once, click **Rename** at the top, highlight the file name, and press **\<CTRL\>+C** to copy it. But be careful not to change the file name\!
 
 **Important:**  By using the base URL from step 6, your content will only display for users signed onto the SHC internal network.
 
