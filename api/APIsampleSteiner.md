@@ -33,7 +33,7 @@ Gets description information for a specific board game ID.
 
 The following is a sample response from the boardgames/{gameId} endpoint:
 
-| `{     "boardgames": \[         {            "game": "Forbidden Island",            "type": "Cooperative",            "time": 30,            "players": {               "playersMin": 2,               "playersMax": 4            },            "age": 10,            "similar": "Pandemic, Spirit Island, Arkham Horror"         }     \] }` |
+| {     "boardgames": \[         {            "game": "Forbidden Island",            "type": "Cooperative",            "time": 30,            "players": {               "playersMin": 2,               "playersMax": 4            },            "age": 10,            "similar": "Pandemic, Spirit Island, Arkham Horror"         }     \] } |
 | :---- |
 
 ### Response definitions
