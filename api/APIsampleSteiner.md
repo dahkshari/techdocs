@@ -14,7 +14,7 @@ Gets description information for a specific board game ID.
 
 | Path parameter | Description |
 | :---- | :---- |
-| `{gameId}` | Value that identifies the board game you want to look up. Valid {gameId} values are available on our site someboardgame.com. |
+| {gameId} | Value that identifies the board game you want to look up. Valid {gameId} values are available on our site someboardgame.com. |
 
 ### Query string parameters
 
